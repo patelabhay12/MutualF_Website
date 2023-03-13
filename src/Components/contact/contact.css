@@ -1,0 +1,33 @@
+.contact_main{
+    display: flex;
+    padding-top: 3rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    gap: 7rem;
+}
+.contact_right{
+    padding-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.contact_right h2{
+    color: brown;
+}
+
+
+.contact_content {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.content_c{
+    display: flex;
+    gap: 2rem;
+}
+
+.content_c .icon{
+    font-size: 2rem;
+}
